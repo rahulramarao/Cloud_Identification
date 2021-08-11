@@ -30,12 +30,12 @@ app.config['MAX_CONTENT_LENGTH'] = 32 * 1024 * 1024
 
 # set up yolo net for prediction
 # you will need to change names, weights, and configuration files.
-names_path = os.path.join('yolo', 'yolo.names')
+names_path = os.path.join('yolo', 'obj.names')
 LABELS = open(names_path).read().strip().split("\n")
 COLORS = np.random.randint(0, 255, size=(len(LABELS), 3), dtype="uint8")
 
-weights_path = os.path.join('yolo', 'yolo.weights')
-cfg_path = os.path.join('yolo', 'yolo.cfg')
+weights_path = os.path.join('yolo', 'my-yolo-obj_final.weights')
+cfg_path = os.path.join('yolo', 'yolov4.cfg')
 net = get_yolo_net(cfg_path, weights_path)
 
 
@@ -106,7 +106,7 @@ if __name__ == "__main__":
     coding center code
     '''
     # IMPORTANT: change the cocalcx.ai-camp.org to the site where you are editing this file.
-    website_url = 'cocalcx.ai-camp.org'
+    website_url = 'cocalc6.ai-camp.org'
     print(f"Try to open\n\n    https://{website_url}" + base_url + '\n\n')
 
     # remove debug=True when deploying it

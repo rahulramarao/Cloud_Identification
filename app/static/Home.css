@@ -1,4 +1,4 @@
-.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/52e8dc4b4f55ad14f6da8c7dda793678153bdee757596c4870267dd19648cd5fb9_1280.jpg"); background-position: 50% 50%}
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/il_fullxfull.1656294870_mq0j.jpg"); background-position: 50% 50%}
 .u-section-1 .u-sheet-1 {min-height: 751px}
 .u-section-1 .u-group-1 {width: 730px; min-height: 346px; box-shadow: 0 0 40px 4px rgba(26,26,26,0.8); margin: 93px 185px 0 auto}
 .u-section-1 .u-container-layout-1 {padding: 30px}
@@ -23,13 +23,15 @@
 .u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
 .u-section-1 .u-text-1 {font-size: 3rem} }.u-section-2 {min-height: 413px}
 .u-section-2 .u-layout-wrap-1 {margin: 0 auto 0 0}
-.u-section-2 .u-image-1 {min-height: 419px; background-image: url("images/52e8dc404c54ac14f6da8c7dda793678153bdee757596c4870267dd19648cd5fb9_1280.jpg"); background-position: 50% 50%}
+.u-section-2 .u-image-1 {min-height: 419px; background-image: url("images/Nimbus.jpg"); background-position: 50% 70%}
 .u-section-2 .u-container-layout-1 {padding: 30px}
-.u-section-2 .u-image-2 {min-height: 419px; background-image: url("images/54e5d3404e5bad14f6da8c7dda793678153bdee757596c4870267dd1964bc158be_1280.jpg"); background-position: 50% 50%}
+.u-section-2 .u-image-2 {min-height: 419px; background-image: url("images/pink-sky-flame-sunset-geoff-childs.jpg"); background-position: 50% 50%}
 .u-section-2 .u-container-layout-2 {padding: 30px}
-.u-section-2 .u-image-3 {min-height: 419px; background-image: url("images/5ee1d2404c5ab108f5d084609629317e113fdce15b4c704c7c297ed59149c55e_1280.jpg"); background-position: 50% 50%}
+.u-section-2 .u-image-3 {min-height: 419px; background-image: url("images/cumulus.jpg"); background-position: 50% 50%}
 .u-section-2 .u-container-layout-3 {padding: 30px}
-.u-section-2 .u-image-4 {min-height: 419px; background-image: url("images/53e1d6454857a514f6da8c7dda793678153bdee757596c4870267dd1964bc15abc_1280.jpg"); background-position: 50% 50%}
+.u-section-2 .u-image-4 {min-height: 419px; background-image: url("images/stratus.jpg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-4 {padding: 30px} 
+.u-section-2 .u-image-4 {min-height: 419px; background-image: url("images/lenticular.jpg"); background-position: 50% 50%}
 .u-section-2 .u-container-layout-4 {padding: 30px} 
 
 @media (max-width: 1199px){ .u-section-2 {min-height: 100px}
@@ -204,10 +206,10 @@
 .u-section-5 .u-layout-wrap-1 {margin: 70px auto 70px 0}
 .u-section-5 .u-layout-cell-1 {min-height: 510px}
 .u-section-5 .u-shape-1 {height: 421px; width: 472px; margin: 59px 0 0 auto}
-.u-section-5 .u-image-1 {width: 457px; height: 423px; margin: -479px auto 0 0}
+.u-section-5 .u-image-1 {width: 950px; height: 400px; margin: -479px auto 0 0}
 .u-section-5 .u-layout-cell-2 {min-height: 510px}
 .u-section-5 .u-container-layout-2 {padding: 30px}
-.u-section-5 .u-text-1 {margin: 83px 0 0}
+.u-section-5 .u-text-1 {margin: 400px 0 0}
 .u-section-5 .u-btn-1 {padding: 0}
 .u-section-5 .u-text-2 {margin: 25px 0 0}
 .u-section-5 .u-btn-2 {margin-left: 0; margin-right: 0; background-image: none; border-style: none} 
@@ -222,7 +224,7 @@
 @media (max-width: 991px){ .u-section-5 .u-sheet-1 {min-height: 425px}
 .u-section-5 .u-layout-cell-1 {min-height: 332px}
 .u-section-5 .u-shape-1 {height: 243px; width: 276px}
-.u-section-5 .u-image-1 {width: 276px; height: 255px; margin-top: -301px}
+.u-section-5 .u-image-1 {width: 1000px; height: 400px; margin-top: -450px}
 .u-section-5 .u-layout-cell-2 {min-height: 332px} }
 
 @media (max-width: 767px){ .u-section-5 .u-sheet-1 {min-height: 319px}
